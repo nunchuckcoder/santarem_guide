@@ -17,8 +17,7 @@ O **Santarém Guide** ajuda a explorar a cidade através de 37 locais organizado
 em roteiros, com descrições em português e inglês. O catálogo, a história e as
 lendas podem ser consultados sem ligação à Internet; o mapa necessita de rede.
 
-> **Estado:** versão 1.0 em preparação para teste fechado na Google Play. O
-> acesso ao teste será divulgado depois da aprovação da faixa.
+> **Estado:** versão 1.0 em preparação para teste fechado na Google Play.
 
 ## Funcionalidades
 
@@ -40,10 +39,6 @@ do Sol estão temporariamente substituídas pela imagem por defeito enquanto nã
 existirem fotografias verificadas desses locais.
 
 ## Capturas de ecrã
-
-As três imagens abaixo são **marcadores de posição**. Antes de publicar o
-repositório, substitui os ficheiros por capturas reais da aplicação e altera os
-nomes nas referências se necessário. Não uses estes marcadores na ficha da Play.
 
 <table>
   <tr>
@@ -78,9 +73,7 @@ Consulta a [Política de Privacidade](docs/index.md), a
 Desenvolvido por **Osvaldo Cipriano (NunchuckCoder)**.
 Suporte e privacidade: [osvaldo@osvaldocipriano.dev](mailto:osvaldo@osvaldocipriano.dev).
 
-Fotografia de capa (Torre das Cabaças): © Osvaldo Cipriano. A utilização desta
-imagem está autorizada no Santarém Guide; não implica licença de reutilização
-fora do projeto. **As ilustrações das lendas foram criadas com inteligência
+**As ilustrações das lendas foram criadas com inteligência
 artificial (IA)** e são distintas das fotografias dos locais. Consulta os
 [créditos das imagens](CREDITOS_IMAGENS.md). A aplicação é independente e não representa a Câmara Municipal
 de Santarém ou outra entidade pública.

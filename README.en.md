@@ -18,7 +18,6 @@ trails, with descriptions in Portuguese and English. The catalogue, history
 and legends are available without an internet connection; the map needs one.
 
 > **Status:** version 1.0 is being prepared for closed testing on Google Play.
-> Access to the test will be shared after the track is approved.
 
 ## Features
 
@@ -39,10 +38,6 @@ The Church of the Holy Miracle and Portas do Sol Garden / Viewpoint currently
 use the default place image until verified photographs are available.
 
 ## Screenshots
-
-The three images below are **placeholders**. Replace them with real app
-screenshots before publishing this repository and update the file names in the
-references if needed. Do not use these placeholders in the Play listing.
 
 <table>
   <tr>
@@ -77,9 +72,7 @@ Read the [Privacy Policy](docs/en/index.md), the
 Developed by **Osvaldo Cipriano (NunchuckCoder)**.
 Support and privacy: [osvaldo@osvaldocipriano.dev](mailto:osvaldo@osvaldocipriano.dev).
 
-Cover photograph (Torre das Cabaças): © Osvaldo Cipriano. Use of this image is
-authorised within Santarém Guide and does not grant a licence for reuse outside
-the project. **The legend illustrations were created with artificial
+**The legend illustrations were created with artificial
 intelligence (AI)** and are distinct from the photographs of places. See the
 [image credits](CREDITOS_IMAGENS.md). The app is independent and does not represent Santarém City
 Council or any other public authority.
