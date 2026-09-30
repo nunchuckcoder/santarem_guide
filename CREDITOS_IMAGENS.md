@@ -2,7 +2,7 @@
 
 ## Português
 
-- **Fotografia de capa:** Torre das Cabaças, Santarém; © Osvaldo Cipriano.
+- **Fotografia de capa:** © Osvaldo Cipriano.
 - **Fotografias dos locais e roteiros:** fotografias fornecidas por Osvaldo
   Cipriano para uso no Santarém Guide. A presença de uma imagem num ponto do
   catálogo não implica licença de reutilização fora do projeto.
@@ -12,7 +12,7 @@
 
 ## English
 
-- **Cover photograph:** Torre das Cabaças, Santarém; © Osvaldo Cipriano.
+- **Cover photograph:** © Osvaldo Cipriano.
 - **Place and trail photographs:** supplied by Osvaldo Cipriano for use in
   Santarém Guide. Inclusion in the catalogue does not grant permission to
   reuse them outside the project.
